@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/viniciusarcanjo/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="#">
+  <a href="https://www.instagram.com/arcanjo.vini/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
@@ -42,7 +42,7 @@
 
 <h4 align='center'>You can find me on</h4>
 <p align='center'>
- <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+ <a href="https://www.youtube.com/channel/UC2CAICArKB6sp5yCoZLye4A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
  <a href="https://arcanjo.dev"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white"></a>
 
   <!-- 📫 Mail: <a href='mailto:vinicius.arcanjo@azul.ws'>vinicius.arcanjo@azul.ws</a> -->
