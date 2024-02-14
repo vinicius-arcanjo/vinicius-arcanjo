@@ -1,52 +1,18 @@
+# Vinicius Arcanjo
 
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Arcanjo-00575f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusarcanjo/)]([https://www.linkedin.com/in/diego-schell-fernandes/](https://www.linkedin.com/in/viniciusarcanjo/)) 
+[![Gmail Badge](https://img.shields.io/badge/-vinicius@arcanjo.dev-00575f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius@arcanjo.dev)](mailto:vinicius@arcanjo.dev)
 
-<h1 align='center'>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Vinicius!
-👨‍💻
-</h1>
+Hello, my name is Vinicius Arcanjo and I am a Software Engineer.
 
-<p align='center'>
-  🖥 Software Engineer</br>
-🏆 Microsoft Open Source Specialist</br>
+My professional journey stands out for a diversity of technical challenges, with an emphasis on managing massive user flows on complex platforms using technologieslike NodeJs and PHP.
+
+I believe that the continuous search for best practices is fundamental to drive growth and innovation in any project.
+
+🏆 Microsoft Azure Specialist <br />
 🏡 Brazilian, Based in Porto Alegre, RS
-</p>
 
-
-
-<p align='center'>
-  
-  <!--<a href="https://wa.me/5521?text=Olá!%20Vinicius">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
-  </a>&nbsp;&nbsp;-->
-  <a href="https://www.linkedin.com/in/viniciusarcanjo/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/arcanjo.vini/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app//api?username=vinicius-arcanjo&count_private=true&show_icons=true&theme=dracula" width="450"></a>
-</p>
-
-<p align='center'>
-  💻 Workspace<br/><br/>
-
-  <img src="https://img.shields.io/badge/Apple-MacBook_Air_2021-999999?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chip-M1-fa6956?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-
-</p>
-
-<h4 align='center'>You can find me on</h4>
-<p align='center'>
- <a href="https://www.youtube.com/channel/UC2CAICArKB6sp5yCoZLye4A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
- <a href="https://arcanjo.dev"><img src="https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white"></a>
-
-  <!-- 📫 Mail: <a href='mailto:vinicius.arcanjo@azul.ws'>vinicius.arcanjo@azul.ws</a> -->
-</p>
-<p align='center'>
-  <img src="https://badges.pufler.dev/visits/vinicius-arcanjo/vinicius-arcanjo">
-</p>
+<div>
+  <img alt="followers" src="https://img.shields.io/github/followers/vinicius-arcanjo?color=black" />
+   <img alt="stars" src="https://img.shields.io/github/stars/vinicius-arcanjo?color=black" />
+</div>
