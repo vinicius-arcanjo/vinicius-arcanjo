@@ -1,6 +1,6 @@
 # Vinicius Arcanjo
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Arcanjo-00575f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusarcanjo/)]([https://www.linkedin.com/in/diego-schell-fernandes/](https://www.linkedin.com/in/viniciusarcanjo/)) 
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Arcanjo-00575f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-arcanjo/)](https://www.linkedin.com/in/vinicius-arcanjo/)
 [![Gmail Badge](https://img.shields.io/badge/-vinicius@arcanjo.dev-00575f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius@arcanjo.dev)](mailto:vinicius@arcanjo.dev)
 
 Hello, my name is Vinicius Arcanjo and I am a Software Engineer.
