@@ -5,12 +5,12 @@
 
 Hello, my name is Vinicius Arcanjo and I am a Software Engineer.
 
-My professional journey stands out for a diversity of technical challenges, with an emphasis on managing massive user flows on complex platforms using technologieslike NodeJs and PHP.
+My professional journey stands out for a diversity of technical challenges, with an emphasis on managing massive user flows on complex platforms using technologies like NodeJs and PHP.
 
 I believe that the continuous search for best practices is fundamental to drive growth and innovation in any project.
 
 🏆 Microsoft Azure Specialist <br />
-🏡 Brazilian, Based in Porto Alegre, RS
+🏡 Brazilian, Based in Rio de Janeiro, RJ
 
 <div>
   <img alt="followers" src="https://img.shields.io/github/followers/vinicius-arcanjo?color=black" />
